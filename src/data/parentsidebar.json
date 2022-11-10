@@ -1,0 +1,132 @@
+
+[
+    {
+        "title": "General",
+        "icon": "bi-gear-fill",
+        "childrens": [
+            {
+                "title": "Home",
+                "icon": "bi-house-fill",
+                "path": "/"
+            },
+            {
+                "title": "About",
+                "icon": "bi-info-circle-fill",
+                "path": "/about"
+            },
+            {
+                "title": "Contact",
+                "icon": "bi-phone-fill",
+                "childrens": [
+                    {
+                        "title": "Facebook",
+                        "icon": "bi-facebook"
+                    },
+                    {
+                        "title": "Twitter",
+                        "icon": "bi-twitter"
+                    },
+                    {
+                        "title": "Instagram",
+                        "icon": "bi-instagram"
+                    }
+                ]
+            },
+            {
+                "title": "FAQ",
+                "icon": "bi-question-circle-fill"
+            }
+        ]
+    },
+    {
+        "title": "Account",
+        "icon": "bi-info-circle-fill",
+        "childrens": [
+            {
+                "title": "Register",
+                "path": "/register"
+            },
+            {
+                "title": "Reset Password",
+                "path": "/reset-password"
+            }
+        ]
+    },
+    {
+        "title": "Profile",
+        "icon": "bi-person-fill",
+        "childrens": [
+            {
+                "title": "Profile",
+                "path": "/profile"
+            },
+            {
+                "title": "Logout",
+                "path": "/logout"
+            }
+        ]
+    },
+    {
+        "title": "Class",
+        "icon": "bi-info-circle-fill",
+        "childrens": [
+            {
+                "title": "Virtual Classes",
+                "path": "/virtual"
+            },
+            {
+                "title": "Classes",
+                "path": "/Classes"
+            }
+        ]
+    },
+    {
+        "title": "Advance",
+        "icon": "bi-view-list",
+        "childrens": [
+            {
+                "title": "Search",
+                "path": "/search"
+            },
+            {
+                "title": "History",
+                "path": "/history"   
+            }
+        ]
+    },
+    {
+        "title": "Students",
+        "icon": "bi-bug",
+        "path": "/Students"
+    },
+    {
+        "title": "Attendance",
+        "icon": "bi-question-circle-fill",
+        "path": "/Attendance"
+    },
+    {
+        "title": "NoticeBoard",
+        "icon": "bi-bug",
+        "path": "/NoticeBoard"
+    },
+    {
+        "title": "Examinations",
+        "icon": "bi-bug",
+        "path": "/Examinations"
+    },
+    {
+        "title": "Library",
+        "icon": "bi-bug",
+        "path": "/Library"
+    },
+    {
+        "title": "Support",
+        "icon": "bi-question-circle-fill",
+        "path": "/support"
+    },
+    {
+        "title": "Report Bug",
+        "icon": "bi-bug",
+        "path": "/report-bug"
+    }
+]
