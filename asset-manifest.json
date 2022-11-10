@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/homeschooling/static/css/main.4cd62cdc.css",
+    "main.js": "/homeschooling/static/js/main.36333d08.js",
+    "static/media/img1.jpg": "/homeschooling/static/media/img1.2f28d88f3f0c6739914b.jpg",
+    "static/media/img2.jpg": "/homeschooling/static/media/img2.55477d04599ea176736a.jpg",
+    "static/media/homeschicon.jpg": "/homeschooling/static/media/homeschicon.80c8676f6133bc87be29.jpg",
+    "index.html": "/homeschooling/index.html",
+    "main.4cd62cdc.css.map": "/homeschooling/static/css/main.4cd62cdc.css.map",
+    "main.36333d08.js.map": "/homeschooling/static/js/main.36333d08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cd62cdc.css",
+    "static/js/main.36333d08.js"
+  ]
+}
